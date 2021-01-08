@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">BinusEzyFoody</string>
+    <string name="food">FOOD</string>
+    <string name="snacks">SNACKS</string>
+    <string name="drinks">DRINKS</string>
+    <string name="myorder">MyOrder</string>
+    <string name="binus_ezyfoody">Binus EzyFoody</string>
+    <string name="saldo">Saldo</string>
+    <string name="rp_300_000">Rp. 300.000</string>
+    <string name="topup">+</string>
+    <string name="air_mineral_n_rp_10_000">Air Mineral \n Rp. 10.000</string>
+    <string name="todo1">TODO</string>
+    <string name="add">+</string>
+    <string name="todo2">TODO</string>
+    <string name="air_mineral_nrp_10_000">Air Mineral \nRp. 10.000</string>
+    <string name="golda_nrp_5_000">Golda \nRp. 5.000</string>
+    <string name="todo3">TODO</string>
+    <string name="teh_botol_nrp_15_000">Teh Botol\nRp. 15.000</string>
+    <string name="jus_jeruk_nrp_25_000">Jus Jeruk\nRp.25.000</string>
+    <string name="todo4">TODO</string>
+    <string name="increase">+</string>
+    <string name="decrease">-</string>
+    <string name="pay">TODO</string>
+    <string name="home">home</string>
+</resources>
